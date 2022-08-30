@@ -1,14 +1,6 @@
 <template>
   <div id="app">
-    <!-- 公共头 -->
-    <AppHeader />
-    <!-- /公共头 -->
-
-    <router-view />
-
-    <!-- 公共底 -->
-    <AppFooter />
-    <!-- /公共底 -->
+    <p>HelloWorld</p>
 
   </div>
 </template>
@@ -28,3 +20,7 @@ export default {
   }
 }
 </script>
+
+<style>
+
+</style>
